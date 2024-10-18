@@ -1,0 +1,113 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+# Usually these files are written by a python script from a template
+# before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environments
+.env
+.env.*
+.venv
+
+# Virtualenv
+venv/
+ENV/
+
+# pyenv
+.python-version
+
+# VS Code settings
+.vscode/
+
+# Pycharm settings
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pytest
+.cache/
+
+# Coverage reports
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+
+# pytest cache
+.pytest_cache/
+
+# Logs and local
+logs/
+*.log
+*.out
+*.err
+
+# Docker
+docker-compose.yml
+.dockerignore
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# SQLite database
+*.sqlite3
+
+# FastAPI specific
+instance/
+
+# Local development files
+*.local
+
+# Optional backup files
+*.bak
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
